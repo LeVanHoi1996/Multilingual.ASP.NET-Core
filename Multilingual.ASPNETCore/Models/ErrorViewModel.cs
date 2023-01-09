@@ -8,4 +8,13 @@ namespace Multilingual.ASPNETCore.Models
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
+    public class GenerateBarcodeModel
+    {
+       
+        public string BarcodeText
+        {
+            get;
+            set;
+        }
+    }
 }
