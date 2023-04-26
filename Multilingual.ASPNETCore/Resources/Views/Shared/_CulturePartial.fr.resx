@@ -123,4 +123,7 @@
   <data name="fr" xml:space="preserve">
     <value>Française</value>
   </data>
+  <data name="vi" xml:space="preserve">
+    <value>Vietnam</value>
+  </data>
 </root>

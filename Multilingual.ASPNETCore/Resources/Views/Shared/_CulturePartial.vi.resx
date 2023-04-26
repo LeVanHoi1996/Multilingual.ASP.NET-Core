@@ -120,6 +120,9 @@
   <data name="en" xml:space="preserve">
     <value>English</value>
   </data>
+  <data name="fr" xml:space="preserve">
+    <value>Tiếng pháp</value>
+  </data>
   <data name="vi" xml:space="preserve">
     <value>Việt Nam</value>
   </data>
